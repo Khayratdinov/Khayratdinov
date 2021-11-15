@@ -1,15 +1,19 @@
-<div style="text-align: justify">
-<img  align="right" height="325px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat</h1>
+<img width="120" align="center" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
+
+
+
 <h3>I'm Backend Developer, and Mnemonic</h3> 
 - 💪 I like to write code <br/>
 - 😉 i'm funny <br/>
 - 🥅 I am constantly learning new things <br/>
 - 🧠 I am interested in knowledge related to the brain <br/>
+<img  align="right" height="300px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 <br/>
 <br/>
- </div>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayratdinov&show_icons=true&theme=radical)
