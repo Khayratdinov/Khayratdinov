@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div style="text-align: justify">
+<img  align="right" height="325px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat</h1>
 <h3>I'm Backend Developer, and Mnemonic</h3> 
@@ -8,9 +9,11 @@
 - 🧠 I am interested in knowledge related to the brain <br/>
 <br/>
 <br/>
+ </div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayratdinov&show_icons=true&theme=radical)
+
  
 
 ## 🚀 Languages and Tools:
