@@ -4,7 +4,9 @@
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue"></h1>
+
+
 
 <img width="120" align="center" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
@@ -12,10 +14,15 @@
 
 
 <h3>I'm Backend Developer, and Mnemonic</h3> 
+
 - 💪 I like to write code <br/>
 - 😉 i'm funny <br/>
-- 🥅 I am constantly learning new things <br/>
+- 🧩 I am constantly learning new things <br/>
 - 🧠 I am interested in knowledge related to the brain <br/>
+
+<h1></h1>
+<h6> - 🔵 I don't know English, but I can use Google translate 😄 </br> - ⚠️ Everything written here is done with Google Translate 😉 </h6>
+<h6> - ✔️ but soon everything will be fine 😊</h6>
 
 <br/>
 <br/>
