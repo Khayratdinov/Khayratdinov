@@ -1,5 +1,11 @@
 
+<h1>
+ 
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</h1>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat</h1>
+
 <img width="120" align="center" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
 
@@ -10,34 +16,31 @@
 - 😉 i'm funny <br/>
 - 🥅 I am constantly learning new things <br/>
 - 🧠 I am interested in knowledge related to the brain <br/>
-<img  align="right" height="300px" width="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Programing GIF"/>
+
 <br/>
 <br/>
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayratdinov&show_icons=true&theme=radical)
-
+<a href="https://github.com/Khayratdinov/github-readme-stats"><img alt="Khayratdinov Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khayratdinov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
+
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+    <img src="https://img.icons8.com/color/40/000000/python--v1.png"/>
+    <img src="https://img.icons8.com/color/40/000000/django.png"/> </a>
+    <img src="https://img.icons8.com/fluency/40/000000/laravel.png"/>
+    <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/40/000000/notion--v1.png"/>
 </p>
 
-<br/>
 
-<a href="https://github.com/Khayratdinov/github-readme-stats"><img alt="Khayratdinov Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khayratdinov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
 
 ## 📡 Connect with me:
 <p align="left">
