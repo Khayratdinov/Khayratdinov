@@ -13,7 +13,7 @@
 
 
 
-<h3>I'm Backend Developer, and Mnemonic</h3> 
+<h3>I'm Backend Developer</h3> 
 
 - 💪 I like to write code <br/>
 - 😉 i'm funny <br/>
@@ -21,7 +21,7 @@
 - 🧠 I am interested in knowledge related to the brain <br/>
 
 <h1></h1>
-<h6> - 🔵 I don't know English, but I can use Google translate 😄 </br> - ⚠️ Everything written here is done with Google Translate 😉 </h6>
+<h6> - 🔵 I don't know English, but I can use Google translate 😄 </br> - ⚠️ Everything that is written here is done using Google Translate 😉 </h6>
 <h6> - ✔️ but soon everything will be fine 😊</h6>
 
 <br/>
