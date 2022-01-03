@@ -16,7 +16,6 @@
 <h3>I'm Backend Developer</h3> 
 
 - 💪 I like to write code <br/>
-- 😉 i'm funny <br/>
 - 🧩 I am constantly learning new things <br/>
 - 🧠 I am interested in knowledge related to the brain <br/>
 
