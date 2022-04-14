@@ -17,11 +17,7 @@
 
 - 💪 I like to write code <br/>
 - 🧩 I am constantly learning new things <br/>
-- 🧠 I am interested in knowledge related to the brain <br/>
 
-<h1></h1>
-<h6> - 🔵 I don't know English, but I can use Google translate 😄 </br> - ⚠️ Everything that is written here is done using Google Translate 😉 </h6>
-<h6> - ✔️ but soon everything will be fine 😊</h6>
 
 <br/>
 <br/>
