@@ -4,7 +4,7 @@
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurpolat <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue"></h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Nurpolat <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue"></h1>
 
 
 
