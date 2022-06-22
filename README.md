@@ -41,7 +41,7 @@
     <img src="https://img.icons8.com/color/40/000000/css3.png"/>
     <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/40/000000/docker.png"/>
-    <img src="https://img.icons8.com/color/40/000000/postman.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/40/000000/notion--v1.png"/>
 </p>
