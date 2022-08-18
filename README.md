@@ -69,8 +69,8 @@
 ### Reach me on : 
 
 
-[![Reza Mobaraki | Mr.Rezoo's | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.rezoo/)
-[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
+[![Reza Mobaraki | Mr.Rezoo's | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/np.nurpolat/)
+[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NP_Nurpolat)
 
 
 ### <img src="assets/images/logo/business-graph.gif" width="30" height="30">  My GitHub Stats
