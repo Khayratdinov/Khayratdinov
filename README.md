@@ -1,60 +1,81 @@
 
+<div align="center">
+    <img src="assets/images/GitHub.png" height="200" />
+</div>
 
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Nurpolat <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue"></h1>
-
-
-
-<img width="120" align="center" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
-
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> I am Nurpolat (NP) <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue">
 
 
 
-<h3>I'm Backend Developer</h3> 
+---
 
-- 💪 I like to write code <br/>
-- 🧩 I am constantly learning new things <br/>
+### <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30" height="30">  More About Me:
+
+- <img src="assets/images/emoji/Flexed-Biceps.gif" width="30" height="30"> I’m currently working on ... Django
+- <img src="assets/images/emoji/fire-1.gif" width="30" height="30">  I’m currently learning ... Software & Backend Engineering 
+- <img src="assets/images/emoji/Handshake.gif" width="30" height="30"> I’m looking to collaborate on ... Best Developers :)
+- <img src="assets/images/emoji/face-with-monocle.gif" width="30" height="30"> I’m looking for help with ... learn js front framework
+- <img src="assets/images/emoji/memo-2.gif" width="30" height="30"> Ask me about ... Anything
+- <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="30" height="30"> How to reach me: ... [Telegram => NP_Nurpolat](https://t.me/NP_Nurpolat)
+- <img src="assets/images/emoji/grinning-face-with-smiling-eyes.gif" width="30" height="30"> Pronouns: ... Motivated
+- <img src="assets/images/emoji/High-Voltage.gif" width="30" height="30"> fact: ... ‌If knowledge is power knowing what we don't know is wisdom
+
+---
 
 
-<br/>
-<br/>
 
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />)
+
+### 🔨 Backend :
+
+[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+
+
+  
+### 🖼 Frontend :
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css-tricks.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+
+### ⚙️ Tools :
+
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black&color=black&labelColor=white)](https://www.notion.so/)
+[![Vscode](https://img.shields.io/badge/Vscode-blue?style=for-the-badge&logo=visualstudio&logoColor=blue&color=blue&labelColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/)
+[![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryproject.org/)
+
+
+### ⚡ Database :
+
+<!-- [![MySQL](https://img.shields.io/badge/MySQL-024F62?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) -->
+[![PostgresQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
+
+### Reach me on : 
+
+
+[![Reza Mobaraki | Mr.Rezoo's | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.rezoo/)
+[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
+
+
+### <img src="assets/images/logo/business-graph.gif" width="30" height="30">  My GitHub Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayratdinov&show_icons=true&theme=radical)
 <a href="https://github.com/Khayratdinov/github-readme-stats"><img alt="Khayratdinov Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khayratdinov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
 
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <img src="https://img.icons8.com/color/40/000000/python--v1.png"/>
- <img src="https://img.icons8.com/color/40/000000/php.png"/>
-    <img src="https://img.icons8.com/color/40/000000/django.png"/> </a>
-    <img src="https://img.icons8.com/color/40/000000/djangorestframework.png"/> </a>
-    <img src="https://img.icons8.com/fluency/40/000000/laravel.png"/>
-    <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/40/000000/docker.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/40/000000/notion--v1.png"/>
-</p>
-
-
-
-## 📡 Connect with me:
-<p align="left">
- <a href="https://t.me/np_nurpolat" target="_blank"> <img align="left" alt="Telegram" width="35px" src="https://img.icons8.com/color/35/000000/telegram-app--v1.png"/> </a>
- <a href="https://www.instagram.com/np.nurpolat/" target="_blank"> <img align="left" alt="Telegram" width="35px" src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/> </a>
-</p>
-
-<br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khayratdinov">
-</a>
-<a href="https://github.com/Khayratdinov?tab=followers"><img src="https://img.shields.io/github/followers/Khayratdinov?label=Followers&style=social" alt="GitHub Badge"></a>
