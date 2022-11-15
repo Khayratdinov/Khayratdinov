@@ -6,6 +6,7 @@
 ## <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> I am Nurpolat ( NP ) <img src="https://emoji.gg/assets/emoji/9768-discord-verify-blue.gif" width="25px" height="25px" alt="Discord_Verify_Blue"></h1>
 
 ### <h3 align="center"><img src="assets/images/emoji/High-Voltage.gif" width="30" height="30"> The Self-Taught Programmer <img src="assets/images/emoji/High-Voltage.gif" width="30" height="30"></h3>
+##### <h5 align="center"> Backend strong mega super happy max pluss + S+  Junior developer <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30" height="30"></h5>
 
 
 
